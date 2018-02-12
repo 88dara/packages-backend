@@ -36,12 +36,7 @@
 
     <div class="starter-template">
         <h1>Spring Boot Web JSP Example</h1>
-        <h2>Message: ${message}</h2>
-        <form action="submit" method="GET">
-            Location: <input type="text" value="" name="location">
-            Duration: <input type="month" value="" name="duration">
-            <input type="submit" value="Submit">
-        </form>
+        <h2>Packages in ${location} for ${duration}</h2>
     </div>
 
 </div>

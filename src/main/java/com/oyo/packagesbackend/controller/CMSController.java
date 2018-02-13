@@ -17,7 +17,9 @@ public class CMSController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String welcome(Map<String, Object> model) {
+
         JSONObject jsonObject = cmsRestApiClient.getInstances("6662");
+
         model.put("message", jsonObject.get("status"));
         return "welcome";
     }

@@ -3,6 +3,8 @@ package com.oyo.packagesbackend.client;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;
 
@@ -14,6 +16,8 @@ import java.net.URL;
 
 @Component
 public class CmsRestApiClient {
+
+    private static final Logger logger = LoggerFactory.getLogger(CmsRestApiClient.class);
 
     @Value("${cms.instance.url}")
     private String cmsUrl;
@@ -36,7 +40,7 @@ public class CmsRestApiClient {
 
             conn.setRequestProperty("Accept", "application/json");
 
-            System.out.println("Cms Service: get - " + cmsId);
+            logger.debug("Cms Service: get - " + cmsId);
 
             conn.setRequestProperty("cache-control", "no-cache");
 

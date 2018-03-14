@@ -15,7 +15,7 @@
 </head>
 <body>
 
-<%--<jsp:include page="header.jsp"/>--%>
+<jsp:include page="header.jsp"/>
 <%
     JSONObject cms_data =  (JSONObject)session.getAttribute("titleWithBackgroundImage");
     JSONObject data = (JSONObject) cms_data.get("data");
@@ -32,7 +32,7 @@
     JSONArray cms_data_array =  (JSONArray) session.getAttribute("banners");
 %>
 
-<div class="mdl-grid" style="margin-top:100px">
+<div class="mdl-grid" style="padding-top:100px">
     <div class="mdl-cell mdl-cell--6-col mdl-hide-phone">
         <img width="100%" height="100%" src="<%=image%>">
         <h1><%= title%></h1>
@@ -469,6 +469,6 @@
     <%--<%} %>--%>
 <%--</div>--%>
 
-<%--<jsp:include page="footer.jsp" />--%>
+<jsp:include page="footer.jsp" />
 </body>
 </html>

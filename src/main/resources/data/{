@@ -1,0 +1,200 @@
+{
+    "main_image_url": "https://tmi2-tourmyindia",
+    "additional_images": [
+        "https://tmi2-tourmyindia",
+        "https://tmi2-tourmyindia",
+        "https://tmi2-tourmyindia",
+        "https://tmi2-tourmyindia"
+    ],
+    "package_listing": {
+        "package_name": "Beautiful Kerala Couple Special",
+        "duration": "3 Days & 2 Nights",
+        "ratings": "4.5",
+        "category_rating": "Excellent",
+        "number_of_ratings": "4850",
+        "inclusions": {
+            "flight": "true",
+            "3Star": "true",
+            "Transfer": "true",
+            "Meals": "true",
+            "Sightseeing": "true"
+        },
+        "tags": [
+            "Adventure",
+            "Wildlife",
+            "Nature",
+            "Culture"
+        ],
+        "actual_price": "12,999",
+        "deal_price": "9399",
+        "discount_offered": "20",
+        "fare_details": "Per Adult on Twin Sharing",
+        "package_description": "Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline. It's known for its palm-lined beaches and backwaters, a network of canals. Inland are the Western Ghats, mountains whose slopes support tea, coffee and spice plantations as well as wildlife. National parks like Eravikulam and Periyar, plus Wayanad and other sanctuaries, are home to elephants, langur monkeys and tigers."
+    },
+    "itenary": [
+        {
+            "itenary_name": "Welcome to Munnar",
+            "distance_time_tag": {
+                "available": "N",
+                "details": ""
+            },
+            "itenary_description": "Munnar is a town in the Western Ghats mountain range in India’s Kerala state. A hill station and former resort for the British Raj elite, it's surrounded by rolling hills dotted with tea plantations established in the late 19th century.Eravikulam National Park, a habitat for the endangered mountain goat Nilgiri tahr, is home to the Lakkam Waterfalls, hiking trails and 2,695m-tall Anamudi Peak.",
+            "tags": [
+                "Adventure",
+                "Wildlife",
+                "Sightseeing"
+            ],
+            "tour_name": "Delhi to Manali",
+            "tour_distance": "750Kms",
+            "total_travel_time": "1:30 Hrs",
+            "tour_tag": {
+                "available": "N"
+            },
+            "tour_images": [
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia"
+            ],
+            "stay_details": {
+                "available": "Y",
+                "hotel_name": "OYO Flagship Delhi Airport",
+                "hotel_address": "Plot No : M28A, M Block , Near Micromax Moulsari, Munnar",
+                "hotel_details": "OYO Flagship 400 Calangute Baga Circle is located strategically in Goa to offer you the best services and comfort at affordable rates. The OYO is maintained with skilled and trained staff.",
+                "hotel_inclusions": {
+                    "free_breakfast": "Y",
+                    "AC": "Y",
+                    "Free WIFI ": "Y",
+                    "meals": "Y",
+                    "cabs": "N"
+                },
+                "hotel_image": "https://tmi2-tourmyindia"
+            }
+        },
+        {
+            "itenary_name": "Munnar to Kochin",
+            "distance_time_tag": {
+                "available": "Y",
+                "details": "145 Kms/ 4-5 Hrs"
+            },
+            "itenary_description": "Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship. Cantilevered Chinese fishing nets, typical of Kfochi, have been in use for centuries.",
+            "tags": [
+                "Solang Valley",
+                "Rohtang Pass Trip",
+                "Adventure",
+                "ParaGliding",
+                "SightSeeing"
+            ],
+            "tour_name": "Delhi to Manali",
+            "tour_distance": "750Kms",
+            "total_travel_time": "1:30 Hrs",
+            "tour_tag": {
+                "available": "Y",
+                "name": "OYO in Kochin"
+            },
+            "tour_images": [
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia"
+            ],
+            "stay_details": {
+                "available": "Y",
+                "hotel_name": "OYO Flagship Delhi Airport",
+                "hotel_address": "Plot No : M28A, M Block , Near Micromax Moulsari, Munnar",
+                "hotel_details": "OYO Flagship 400 Calangute Baga Circle is located strategically in Goa to offer you the best services and comfort at affordable rates. The OYO is maintained with skilled and trained staff.",
+                "hotel_inclusions": {
+                    "free_breakfast": "Y",
+                    "AC": "Y",
+                    "Free WIFI ": "Y",
+                    "meals": "Y",
+                    "cabs": "N"
+                },
+                "hotel_image": "https://tmi2-tourmyindia"
+            }
+        },
+        {
+            "itenary_name": "Kochin to Ooty",
+            "distance_time_tag": {
+                "available": "Y",
+                "details": "145 Kms/ 4-5 Hrs"
+            },
+            "itenary_description": "Ooty, also known as Udhagamandalam, is a hill station in the state of Tamil Nadu, in southern India. Surrounded by trees,central Ooty Lake is a huge artificial expanse of water with pleasure boats. On the slopes of nearby Elk Hill, the Rose Garden is home to over 2,000 varieties of roses. The Government Botanical Garden, created in the 19th century, features ferns, orchids and a prehistoric, fossilized tree.",
+            "tags": [
+                "Solang Valley",
+                "Rohtang Pass Trip",
+                "Adventure",
+                "ParaGliding",
+                "SightSeeing"
+            ],
+            "tour_name": "Delhi to Manali",
+            "tour_distance": "750Kms",
+            "total_travel_time": "1:30 Hrs",
+            "tour_tag": {
+                "available": "Y",
+                "name": "OYO in Kochin"
+            },
+            "tour_images": [
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia",
+                "https://tmi2-tourmyindia"
+            ],
+            "stay_details": {
+                "available": "N"
+            }
+        }
+    ],
+    "other_packages": [
+        {
+            "name": "Romantic Allepey and Munnar",
+            "duration": "3D,2N",
+            "rating": "4.5",
+            "number_of_ratings": "119",
+            "actual_price": "12,999",
+            "starred": "false",
+            "deal_price": "9399",
+            "discount_offered": "20",
+            "value_deal": "true",
+            "tags": [
+                "Adventure",
+                "Wildlife",
+                "Nature",
+                "Culture"
+            ],
+            "inclusions": {
+                "flight": "true",
+                "3Star": "true",
+                "Transfer": "true",
+                "Meals": "true",
+                "Sightseeing": "true"
+            },
+            "image_url": "http://s.wsj.net/public/resources/images/OB-RV668_maldiv_G_20120216013602.jpg"
+        },
+        {
+            "name": "Romantic Allepey and Munnar",
+            "duration": "3D,2N",
+            "rating": "4.5",
+            "number_of_ratings": "119",
+            "actual_price": "12,999",
+            "starred": "false",
+            "deal_price": "9399",
+            "discount_offered": "20",
+            "value_deal": "true",
+            "tags": [
+                "Adventure",
+                "Wildlife",
+                "Nature",
+                "Culture"
+            ],
+            "inclusions": {
+                "flight": "true",
+                "3Star": "true",
+                "Transfer": "true",
+                "Meals": "true",
+                "Sightseeing": "true"
+            },
+            "image_url": "http://s.wsj.net/public/resources/images/OB-RV668_maldiv_G_20120216013602.jpg"
+        }
+    ]
+}

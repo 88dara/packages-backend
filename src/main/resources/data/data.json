@@ -1,0 +1,123 @@
+{
+   "destinations":[
+      "Kerela",
+      "Himachal Pradesh",
+      "North East",
+      "Leh Laddakh"
+   ],
+   "main_image":"https://assets.oyoroomscdn.com/web-banner.jpg",
+   "best_destinations":[
+      {
+         "name":"Himachal Pradesh",
+         "starting_price":"7499",
+         "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Himalayas_from_Kullu_Valley%2C_Himachal_Pradesh.jpg/220px-Himalayas_from_Kullu_Valley%2C_Himachal_Pradesh.jpg"
+      },
+      {
+         "name":"Kerela",
+         "starting_price":"8499",
+         "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg/240px-Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg"
+      },
+      {
+         "name":"Kashmir",
+         "starting_price":"8999",
+         "image_url":"https://tmi2-tourmyindiapvtlt.netdna-ssl.com/blog/wp-content/uploads/2016/11/Jammu-Kashmir-Major-Center-for-MICE-and-Golf-Tourism.png"
+      },
+      {
+         "name":"Uttrakhand",
+         "starting_price":"7599",
+         "image_url":"http://cdn2.travelwireasia.com/wp-content/uploads/2016/05/shutterstock_283593458-e1482393135207.jpg"
+      },
+      {
+         "name":"Gujrat",
+         "starting_price":"6699",
+         "image_url":"http://smartholidayshop.in/img/domstic-glry/bhutan/gujrat3.jpg"
+      }
+    
+   ],
+   "collections":[
+      {
+         "name":"Adventure",
+         "number_of_packages":"12",
+         "image_url":"https://pbs.twimg.com/profile_images/934759076763901952/OiHKUh6J_400x400.jpg"
+      },
+      {
+         "name":"Wildlife",
+         "number_of_packages":"17",
+         "image_url":"https://www.grantatkinson.com/wp-content/uploads/2013/07/GrantAtkinson-Selinda_94A4884.jpg"
+      },
+      {
+         "name":"Sea-Side",
+         "number_of_packages":"25",
+         "image_url":"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2015/11/04/Photos/NapoleonWrasse-kH2--621x414@LiveMint.jpg"
+      },
+      {
+         "name":"Forts",
+         "number_of_packages":"5",
+         "image_url":"http://heritage-india.com/wp-content/uploads/2017/06/Agra-Fort-Front-View-1.jpg"
+      },
+      {
+         "name":"Temple",
+         "number_of_packages":"31",
+         "image_url":"http://srirangaminfo.com/srirangamphotos/data/photos/temple.jpg"
+      }
+   ],
+   "blogs":[
+      {
+         "title":"11 Offbeat Destinations in Uttrakhand",
+         "small_description":"THe ultimate list for offbeat destinations in Uttrakhand is now here!. Giving you some amazing...",
+         "date":"01/12/2017",
+        "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg/240px-Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg"
+      },
+      {
+         "title":"Wildlife Spotting",
+         "small_description":"THe ultimate list for offbeat destinations in Uttrakhand is now here!. Giving you some amazing...",
+         "date":"28/11/2017",
+         "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg/240px-Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg"
+      },
+      {
+         "title":"Wildlife Spotting",
+         "small_description":"THe ultimate list for offbeat destinations in Uttrakhand is now here!. Giving you some amazing...",
+         "date":"28/11/2017",
+         "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg/240px-Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg"
+      },
+      {
+         "title":"Wildlife Spotting",
+         "small_description":"THe ultimate list for offbeat destinations in Uttrakhand is now here!. Giving you some amazing...",
+         "date":"28/11/2017",
+         "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg/240px-Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg"
+      },
+      {
+         "title":"Wildlife Spotting",
+         "small_description":"THe ultimate list for offbeat destinations in Uttrakhand is now here!. Giving you some amazing...",
+         "date":"28/11/2017",
+         "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg/240px-Tea_Fields_Of_Munnar%2C_Kerala%2C_India.jpg"
+      }
+   ],
+   "stories":[
+      {
+         "description":"OFB is really easy to use web",
+         "user_name":"Rakesh Ranjan",
+         "city":"Delhi"
+      },
+      {
+         "description":"The oyo wallet and web app has solved multiple problems for our employee. We do not need to worry about paying the hotrl",
+         "user_name":"Gurpreet Saini",
+         "city":"Mumbai"
+      },
+      {
+         "description":"The oyo wallet and web app has solved multiple problems for our employee. We do not need to worry about paying the hotrl",
+         "user_name":"Gurpreet Saini",
+         "city":"Mumbai"
+      },
+      {
+         "description":"The oyo wallet and web app has solved multiple problems for our employee. We do not need to worry about paying the hotrl",
+         "user_name":"Gurpreet Saini",
+         "city":"Mumbai"
+      },
+      {
+         "description":"The oyo wallet and web app has solved multiple problems for our employee. We do not need to worry about paying the hotrl",
+         "user_name":"Gurpreet Saini",
+         "city":"Mumbai"
+      }
+   ]
+}

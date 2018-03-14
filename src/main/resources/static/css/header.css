@@ -1,0 +1,112 @@
+.oam_header {
+    height: 70px;
+    background: #fff;
+    position: fixed;
+    width: 100%;
+    z-index: 99;
+    padding: 0% 1%;
+    box-sizing: border-box;
+    border: 0px 1px 1px 1px solid black;
+    /* box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .14), 0 3px 1px -2px rgba(0, 0, 0, .2), 0 1px 5px 0 rgba(0, 0, 0, .12); */
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1);
+}
+.header__logo {
+    float: left;
+    width: 110px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-position: top 50% left 0;
+    border-right: 1px solid #eee;
+}
+.header__logo--small {
+    margin: 9px 5px 9px 10px;
+    float: left;
+    width: 80px;
+    height: 42px;
+    padding-top: 10px;
+    padding-left: 5%;
+    background-repeat: no-repeat;
+    background-position: top 50% left 0;
+}
+.oam-header-right-panel {
+    float: right;
+    height: 60px;
+}
+.oam_header_text {
+    color: #000;
+    padding-top: 5px;
+    float: left;
+    font-size: 16px;
+    margin: 0;
+    line-height: 60px;
+    vertical-align: middle;
+    padding-left: 22px;
+}
+.mobile_header_text {
+    color: #000;
+    padding-top: 21px;
+    margin-left: 5.5vw;
+    float: left;
+    font-size: 14px;
+}
+@media (max-width: 250px) {
+    .mobile_header_text {
+        display: none;
+    }
+}
+.header-nav-icon {
+    font-size: 20px !important;
+}
+.oam_header_element_outer {
+    width: 185px;
+    height: 60px;
+    border-left: 1px solid #e9eaea;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 14px;
+    padding: 10px 10px 0px 10px;
+    box-sizing: content-box;
+}
+.header_nav_link {
+    color: #2e3031;
+    position: relative;
+    top: 15px;
+    padding: 0;
+    font-size: 14px;
+    cursor: pointer;
+}
+.icon-email {
+    background-image: url(/assets/images/email-icon.png);
+    width: 40px;
+    height: 30px;
+}
+.mobile_header {
+    background-color: #fff;
+    height: 60px;
+    border-bottom: 1px solid #ddd;
+}
+.oyo-header-logo {
+    padding: 22px 20px 15px 15px;
+}
+.margin-center {
+    margin: auto !important;
+}
+.mobile-icon {
+    background-color: #ef4123;
+}
+.mdl-navigation {
+    float: right;
+}
+.phone-icons {
+    padding: 15px;
+}
+.oam_header_element_outer_right {
+    width: 160px;
+    height: 60px;
+    border-left: 1px solid #e9eaea;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 14px;
+    padding: 10px 10px 0px 20px;
+    box-sizing: content-box;
+}

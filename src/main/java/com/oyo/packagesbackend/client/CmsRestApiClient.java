@@ -1,5 +1,6 @@
 package com.oyo.packagesbackend.client;
 
+import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
@@ -13,6 +14,7 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.List;
 
 @Component
 public class CmsRestApiClient {
@@ -71,8 +73,29 @@ public class CmsRestApiClient {
 ////            return "Error " + e;
 //        }
 
+
+
+//        List<PackageDetails> packageList = client.getPackageListingWithMediumDetails(Arrays.asList(1,2,43,4));
+//        TSerializer serializer = new TSerializer(new TSimpleJSONProtocol.Factory());
+//        String packageDetailsJson = serializer.toString(pacakgeResponse);
+//
+//        System.out.println(packageDetailsJson);
+//        JSONObject jsonObject = new JSONObject(packageDetailsJson);
+//
+//        System.out.println("json print\n"+jsonObject.toString());
+
+    }
+
+    public JSONArray getInstances(List<String> cmsIds) {
+
+        JSONArray jsonArray = new JSONArray();
+
+        for (String cmsId: cmsIds) {
+            jsonArray.add(this.getInstances(cmsId));
+        }
+
+        return jsonArray;
     }
 
 }
-
 
